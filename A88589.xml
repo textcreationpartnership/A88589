@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scripture rules to be observed in buying and selling. By Mr Christopher Love, late minister at Laurence Jury, London.</title>
+            <author>Love, Christopher, 1618-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88589</idno>
+            <idno type="STC">Wing L3173</idno>
+            <idno type="STC">Thomason 669.f.16[84]</idno>
+            <idno type="STC">ESTC R211638</idno>
+            <idno type="EEBO-CITATION">99870348</idno>
+            <idno type="PROQUEST">99870348</idno>
+            <idno type="VID">163237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163237)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[84])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scripture rules to be observed in buying and selling. By Mr Christopher Love, late minister at Laurence Jury, London.</title>
+                  <author>Love, Christopher, 1618-1651.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwell, at the Sun &amp; Fountain in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In double columns.</note>
+                  <note>Annotation on Thomason copy: "January 31 1652"; 3 in imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Rules concerning buying commodities -- Rules concerning selling commodities.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commerce --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163237:1" rendition="simple:additions"/>
+            <head>SCRIPTURE RULES to be Obſerved in Buying and Selling.</head>
+            <byline>By M<hi rend="sup">r</hi> CHRISTOPHER LOVE, late Miniſter at <hi>Laurence Jury, London.</hi>
+            </byline>
+            <div type="part">
+               <head>Rules concerning Buying Commodities.</head>
+               <p n="1">1. IF you would not tranſgreſs Scripture rules in buying: then firſt take heed that you do not diſcommend thoſe Commodities that are very good, which you are about to buy, that ſo you may bring down the price of the Commo<g ref="char:EOLhyphen"/>dity, and get it for leſs then it is worth: there is a known place of Scripture for this in <hi>Prov.</hi> 20. 14. <hi>It is naught, it is naught, ſaith the buyer; but when he is gone his way, then he boaſteth.</hi> Peo<g ref="char:EOLhyphen"/>ple in <hi>Solomons</hi> time they were ſo wicked, that when they came to market to buy any thing, the buyer he would diſcommend the Commodity, &amp; ſay, <hi>it was naught,</hi> though it were very good and ſaleable; but when the ſeller was gone, then he would boaſt of what a good penyworth he had bought, and the like.</p>
+               <p n="2">2. Do not make vows and proteſtations, that you will give no more for a Commodity, then what you have firſt offered, when afterwards you will give more. This is a very common thing with Trades-men; you ſhall have a man come to a ſhop, and cheapen a Commodity, and the buyer he will ſay, <hi>he will not give a farthing more,</hi> and the ſeller will ſay, <hi>he will not take a farthing leſs,</hi> and yet both the buyer gives more, and the ſel<g ref="char:EOLhyphen"/>ler takes leſs; now this is no other then a palpa<g ref="char:EOLhyphen"/>ble and downright lye.</p>
+               <p n="3">3. Do not give counterfeit mony for thoſe Commodities you buy: this you have an exam<g ref="char:EOLhyphen"/>ple of in <hi>Abraham,</hi> when he was to buy the field in <hi>Mackpelah</hi> of <hi>Ephron</hi> the <hi>Hittite,</hi> for a bury<g ref="char:EOLhyphen"/>ing place, in <hi>Gen.</hi> 23. 16. ſaith <hi>Abraham, I will give thee four hundred ſhekles of ſilver, currant money with the Merchant;</hi> And therefore you tranſgreſs Scriptures rules if you know you have braſs mony, or counterfeit gold about you, and yet pay it away for Co<g ref="char:cmbAbbrStroke">̄</g>modities; you ſin in doing ſo, though you your ſelf took it for Co<g ref="char:cmbAbbrStroke">̄</g>modities.</p>
+               <p n="4">4. Do not give for a commodity leſs then in your conſcience you think it is worth; it is an op<g ref="char:EOLhyphen"/>preſſion in buying, when you ſeek to bring a Commodity under its due value and worth. <hi>A<g ref="char:EOLhyphen"/>braham</hi> when he was to buy the Cave in <hi>Mack<g ref="char:EOLhyphen"/>pelah</hi> of <hi>Ephron,</hi> ſaith he, <hi>I will give thee the worth of it in mony:</hi> and ſo <hi>David</hi> when he was to buy the threſhing-floor of <hi>Araunah</hi> the <hi>Iebu<g ref="char:EOLhyphen"/>ſite,</hi> 2 <hi>Sam.</hi> 24. 24. ſaith he, <hi>I will buy it of thee at the full value of it.</hi>
+               </p>
+               <p n="5">5. Do not long deferre the paying for thoſe Co<g ref="char:cmbAbbrStroke">̄</g>modities which you have bought, when thou haſt by thee wherewithall to pay it: there is an excellent place for this in <hi>Prov.</hi> 3. 27, 28. <hi>With<g ref="char:EOLhyphen"/>hold not good from them to whom it is due, when it is in the power of thy hand to do it: ſay not unto thy neighbour, go, and come again, and to morrow I will give, when thou haſt it by thee.</hi> This Text is referred to works of mercy, but it hath relation to buying and ſelling, and trading in the world: if you owe a man mony for a Commodity, you ought to pay him, and not to let him come day after day for it, and go without it, when you have it by you. 2 <hi>Kings</hi> 4. 7. it is the badge of a wicked man in Scripture, <hi>not to pay his debts,</hi> in <hi>Pſalm</hi> 37. 21. <hi>The wicked borroweth and payeth not again.</hi>
+               </p>
+               <p n="6">6 Do not engroſs a Co<g ref="char:cmbAbbrStroke">̄</g>modity, that is, do not buy all of a Commodity into your own hands alone, that by that means you may ſell the com<g ref="char:EOLhyphen"/>modity at your own price; this is a meer oppreſ<g ref="char:EOLhyphen"/>ſion, deſtructive to a Commonwealth, and to all trading; the Scripture condemns this in <hi>Prov.</hi> 11. 6. it is ſpoken there of Corn mungers; ſaith the <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ext, <hi>He that with-holdeth corn, the people ſhall <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urſe him, but bleſſing ſhall be upon the head of him that ſelleth it.</hi> In <hi>Solomons</hi> time there were corn<g ref="char:EOLhyphen"/>mungers that when corn was cheap would go &amp; buy up all the corn in the countrey, and would keep it up and ſell none till corn was very dear; now ſaith the Text, <hi>He that doth thus, the people ſhall curſe him for it, but bleſsing ſhall be upon the head of him that ſelleth it.</hi> Now it is no ſin in its ſelf to engroſs a commodity, thereby to ſell it the cheaper, but for a man to engroſs a commo<g ref="char:EOLhyphen"/>dity, meerly thereby to advance the price of it, this is ſuch an oppreſſion, that the people ſhall curſe him for it.</p>
+               <p n="7">7. Do not in your buying a commodity take any advantage of the miſtake or overſight of the ſeller; as ſuppoſe you ſhould come to a ſhop and buy ſo many yards of cloth, or the like, and he ſhould give thee more then is thy due, or take leſs mony of thee then is his due, you ſhould take no advantage of him in ſuch a caſe, but re<g ref="char:EOLhyphen"/>ſtore it again: for if you take any thing more from him then you bought of him, it is theft; or if you give any leſſe for the commodi<g ref="char:EOLhyphen"/>ty then you bargained for, it is theft: there is an excellent place for this in <hi>Gen.</hi> 43. 12. <hi>Iacob</hi> when there was a famine in the Land, he ſent his ſons down into <hi>Aegypt</hi> to buy corne, and <hi>Ioſeph</hi> he knowing his brethren, filled their ſacks with corn, and put the mony which they brought for the corne, in the mouth of the ſack againe; and when they came home and found their mo<g ref="char:EOLhyphen"/>ny in the mouth of their ſacks, they told their father <hi>Jacob</hi> of it; then ſaith he to them, <hi>Goe back againe, and take double money in your hand, and the money that was brought againe in the mouth of your ſacks, carry it againe in your hands, for peradventure it was an overſight:</hi> here was a conſcienciouſneſſe in <hi>Iacob.</hi>
+               </p>
+               <p n="8">8. Do not buy any commodities on the Lords day; it is true, upon urgent occaſions to main<g ref="char:EOLhyphen"/>taine life either in man, or beaſt, this is lawfull; but to buy any thing, that you may well be without till monday, in this caſe you ſin if you buy any thing on the Lords day; in <hi>Neh.</hi> 10. 31. <hi>and Nehemiah entred into an oath, and the people with him, that if any of the people of the land brought wares, or any victuals to ſell on the Sabboth day, that they would not buy it of them;</hi> and as the law did not give them leave to breake the Jewiſh Sabboth, ſo neither doth the Goſpell give us leave to break the Chriſtian Sabboth; and therefore I cannot ſee but that it is a ſin, for men to buy either wine or beer, or pepper or muſtard, or any other trivial things (which they may well be without) on the Sabboth day.</p>
+               <p n="9">9. Do not in buying a commodity, work upon the neceſſity of a poor man, that hath need of money; this is a great ſin in Tradeſmen; they know that a poor man wants money, and he muſt ſell off his ware, orelſe he cannot buy bread for his familie, and therefore he will worke upon his neceſſity, and will not buy the com<g ref="char:EOLhyphen"/>modity of him, unleſſe they will ſell it cheaper then then they can afford it; now this is a great oppreſſion; in the 25 of <hi>Levit.</hi> 14. <hi>If thou buyeſt any thing of thy neighbour, or ſelleſt any thing to thy neghbour, thou muſt not uſe oppreſſion.</hi> There is an oppreſſion in buying as well as in ſel<g ref="char:EOLhyphen"/>ling; it is a great oppreſſion for rich men, to work upon the neceſſity of a poor man, to make him ſell cheaper then he can afford, or elſe to buy nothing at all of him.</p>
+               <p n="10">10. Do not buy thoſe things that are not fit to be bought and ſold: as firſt, Doe not buy ſtol<g ref="char:EOLhyphen"/>len goods, they are not fit to be bought; if thou knoweſt that the goods that are to be bought, are ſtollen goods, they are not to be bought, but to be reſtored; as the receiver is as bad as the theif, ſo the buyer is as bad as the theif: Second<g ref="char:EOLhyphen"/>ly, doe not buy monuments of Idolatry, for they are not fit to be bought, as Croſſes, Beads, and Images, and Crucifixes, and the like: Thirdly, Doe not buy men for ſlaves; this the Lord re<g ref="char:EOLhyphen"/>proves in <hi>Amos</hi> 2. 16. <hi>They ſould the righte<g ref="char:EOLhyphen"/>ous for ſilver; and the poor for a paire of ſhooes;</hi> and ſo in the of 27. <hi>Deut. Thou ſhalt not ſteal thy Brother, and make merchandiſe of him:</hi> we ſhould therefore take heed leaſt we ſplit our ſoules up<g ref="char:EOLhyphen"/>on any of theſe rocks, and let us labour, that a<g ref="char:EOLhyphen"/>mong all our buyings, we buy that which Chriſt bids us buy; in <hi>Eſay</hi> 55. 1. <hi>Ho, every one that thirſteth, come you unto the waters, and he that hath no money, come, buy and eat, yea, come buy wine and milke without money, and without price.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Rules concerning Selling Commodities.</head>
+               <p n="1">1. IF you would not tranſgreſſe Scripture rules in ſelling co<g ref="char:cmbAbbrStroke">̄</g>modities; then in the firſt place do not multiply words in ſelling; the Scripture affords many examples for this, as in <hi>Gen.</hi> 23. 15. <hi>Abraham,</hi> as I told you before, when he was to buy the cave of <hi>Machpela,</hi> of <hi>Ephron,</hi> he told him that <hi>it was worth four hundred shekels of ſil<g ref="char:EOLhyphen"/>ver,</hi> and <hi>Abraham</hi> preſently gave him ſo much <hi>currant monie with the Merchant:</hi> And ſo God himſelfe takes upon him to be a ſeller, in <hi>Zach.</hi> 11. 12. <hi>If you thinke good,</hi> ſaith God, <hi>give me my price; if not, forbear;</hi> multiplicity of words is needleſſe; <hi>In a multitude of words</hi> (ſaith <hi>Solomon) there is ſin,</hi> men ſhould not la<g ref="char:EOLhyphen"/>viſh and frolick in a ſhop.</p>
+               <p n="2">2. Do not commend &amp; overpraiſe a commo<g ref="char:EOLhyphen"/>dity, when you know in your conſcience, that there is a fault in it; this is a vicious carriage in the ſeller, when he ſhall uſe abundance of fine words to ſet out a commodity when it is not good. As the buyer ſhould not diſcommend a commodity when it is good; ſo ſhould not the ſeller over-praiſe and commend a commodi<g ref="char:EOLhyphen"/>ty, when it is nought.</p>
+               <p n="3">3. Do not ſell thy commodities by falſe weights, nor by falſe meaſures; do not keep a de<g ref="char:EOLhyphen"/>ceitfull ballance, or a deceitfull meaſure; this is condemned in <hi>Amos</hi> 8. 5. <hi>They make the E<g ref="char:EOLhyphen"/>phah ſmall, and the Shekel great, and falſifie the ballances by deceit,</hi> and ſo in the 20. of <hi>Prov.</hi> 10. <hi>Divers weights, and divers meaſures, both of them are alike an abomination unto the Lord.</hi> Now this is ſpoken, not that the weights and meaſures in themſelves, are an abomination to the Lord, but onely thoſe men that do uſe, and keep, and ſell by thoſe weights, and meaſures; and therefore the Lord gave a ſpeciall law for this, to all that did follow trades in <hi>Iſrael,</hi> in <hi>Deut.</hi> 25. 14, 15. ſaith God there, <hi>Thou ſhalt not have in thy houſe divers meaſures, a great and a ſmall,</hi> that is, a great meaſure to buy by, &amp; a ſmal one to ſel by; <hi>Thou ſhalt not have in thy bag divers weights, a great and a ſmall, but thou ſhalt have a perfect and a juſt weight, and a perfect and a juſt meaſure, ſhalt thou have, that thy dayes may be long in the land which the Lord thy God giveth thee;</hi> and ſo in <hi>Mic.</hi> 6. 10. <hi>Is there yet,</hi> ſaith God, <hi>the treaſures of wick<g ref="char:EOLhyphen"/>edneſſe in the houſe of the wicked, and the ſcant meaſure, which is an abomination unto the Lord?</hi>
+               </p>
+               <p n="4">4. You are to make conſcience in ſelling a com<g ref="char:EOLhyphen"/>modity, not only that you do not ſpeak falſly, but alſo that you do not ſpeak in an equivoca<g ref="char:EOLhyphen"/>ting manner: It is an obſervation that <hi>Luther</hi> hath upon theſe words, <hi>Let no man defraud his Bro<g ref="char:EOLhyphen"/>ther,</hi> ſaith he, there are many Shop-keepers, that will not lye, but they will equivocate very much; you ſhall have a tradeſman that to ſell off a com<g ref="char:EOLhyphen"/>modity, he will get a partner with him, and he ſhall offer him ſo much for a commodity, and then he will tel the next man that comes for that commodity, that there was one offered him ſo much for it but even now; and then they will ſay likewiſe, it coſt me ſo much, when it may be they had other things with it of a greater value and price, and it may be they had a great deale of time given them to pay for it, whereas the buyer payes ready money; and many other e<g ref="char:EOLhyphen"/>quivocating words they uſe, which is as bad as lying.</p>
+               <p n="5">5. In ſelling a commodity doe not work up<g ref="char:EOLhyphen"/>on the ignorance or ſimplicity of the man that comes to buy the commodity; but if you diſ<g ref="char:EOLhyphen"/>cerne him to be unskilfull, rather uſe him the berter, then the worſe; in <hi>Zepha.</hi> 1. 9. ſays God there. <hi>In the ſame day alſo will I puniſh all thoſe young men, that leap in the threſhold, which fill their maſters houſes with violence and deceit;</hi> and ſo in 1 <hi>Theſ.</hi> 46. <hi>Let no man</hi> (ſaies the Apoſtle) <hi>goe beyond or defraud his Brother in any matter, for the Lord is the avenger of all ſuch;</hi> and ſo in 2 <hi>Pet.</hi> 2. 3. <hi>And through coveteouſneſſe ſhall they with fained words make merchandiſe of you, whoſe judgement lingreth not.</hi> When men ſhall worke upon the ignorance of the buyer, and ſo advance the price of the commodity, this is a great ſin.</p>
+               <p n="6">6. Do not imbaſe a commodity from its pri<g ref="char:EOLhyphen"/>mitive worth and goodneſſe, and yet ſell it at the full price, as if it were good, thereby to get the more by it: this the Scripture condemns in <hi>Amos</hi> 8. 6. <hi>They ſell the refuſe of the wheat:</hi> the corne-mungers, in thoſe times they would pick out the beſt of their wheat, and yet ſell the worſt at the full price of the beſt: now this the Lord condemns; and ſo in <hi>Eſay</hi> 1. 22. <hi>They min<g ref="char:EOLhyphen"/>gle wine with water, and droſſe with ſilver:</hi> the Scripture condemns this, to imbaſe a commodi<g ref="char:EOLhyphen"/>ty from its primitive goodneſſe, and yet to ſell it at the full value of the beſt.</p>
+               <p n="7">7. Be not among the firſt that ſhall raiſe the price of a commodity; this I hinted to you be<g ref="char:EOLhyphen"/>fore in <hi>Prov.</hi> 11. 26. <hi>He that withholdeth corn, the people ſhall curſe him; but bleſsing ſhall be upon the head of him that ſelleth it.</hi>
+               </p>
+               <p n="8">8. Be not ſo eager in ſelling of your commo<g ref="char:EOLhyphen"/>dities, that you cannot content your ſelves to ſel on the ſix dayes of the week, but you muſt ſell on the Sabboth day likewiſe; be not like thoſe in <hi>Amos</hi> 8. 5. ſaying, <hi>When will the new moon be over, that we may ſell corne, and the Sabboth be over, that we may ſet forth wheat?</hi> and ſo in <hi>Neh.</hi> 13. 15. <hi>In thoſe dayes,</hi> ſaith the Prophet, <hi>ſaw I in Iudah, ſome treading wine-preſſes on the Sabboth, and bringing in ſheaves, and lading Aſ<g ref="char:EOLhyphen"/>ſes, and all manner of burthens, which they brought into Ieruſalem on the Sabboth, and I teſtified a<g ref="char:EOLhyphen"/>gainſt them in the day wherein they ſold victu<g ref="char:EOLhyphen"/>als.</hi> Now this is againſt your common ſel<g ref="char:EOLhyphen"/>ling houſes, and ſhops of mean trades, that ſell by retaile, that make nothing of ſelling ſmall crifling things on the Sabboth day; but this is a great ſin.</p>
+               <p n="9">9. When you are found out to be deceitful in your dealing, doe not juſtifie your deceit; ma<g ref="char:EOLhyphen"/>ny men, if you come to them, and tell them, that they ſell dearer then their neighbors, they wil tel you, that they doe not; or if you tell them that the commodity is not good which you bought of them, they will ſay, it is as good as they can afford for the price, and the like; this is con<g ref="char:EOLhyphen"/>demned in <hi>Ephraim,</hi> in <hi>Hoſea</hi> 12. 7. <hi>Ephra<g ref="char:EOLhyphen"/>im is a Merchant, the ballances of deceit are in his hand, he loves to oppreſſe, and yet he ſaith, I am become rich, and I have found me out ſubſtance, and in all my labours they ſhall finde no iniquity in me,</hi> that is ſin; you ſhould not juſtifie your deceit.</p>
+               <p n="10">10. Do not ſell thoſe things that are not ſalea<g ref="char:EOLhyphen"/>ble; as firſt, do not ſell ſpirituall things, for they are not ſaleable, as in <hi>Act.</hi> 8. 20. <hi>Simon Magus</hi> when he would have bought the gift of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt with mony, ſaith <hi>Peter</hi> to him, <hi>Thy money periſh with thee, becauſe thou thougheſt that the gift of God might be purchaſed with mony.</hi> Secondly, doe not ſell monuments of Idolatry as Croſſes, and Beads, and Images, and Cruci<g ref="char:EOLhyphen"/>fixes, and Conjuring Books, and the like; they are not fitto be ſold, as in <hi>Act.</hi> 19. 19. <hi>Many al<g ref="char:EOLhyphen"/>ſo of them that uſed curions arts, brought their books together, and burned them before all men, and they counted the price of them, and found it to be</hi> 50000 <hi>pieces of ſilver;</hi> this is ſpoken here of Conjuring books; and notwithſtanding they were of ſo great a value, they would not ſell them, but burned them. Thirdly, Doe not ſell thy ſelfe as <hi>Ahab</hi> did, to worke wickedneſſe; for you are not your own<g ref="char:punc">▪</g> but Gods; and therefore you muſt <hi>glorifie God in your bodies, and in your ſoules, which are God's.</hi> Fourthly, You muſt not ſell ſtollen goods. Fifthly, You muſt not ſell thoſe things that are for no other uſe, but for to commit ſin in the uſing of them; as for to ſell ſtuffe to paint Harlots faces, is a ſin, becauſe it is for no other uſe but to commit ſin in the uſing of it.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>John Rothwell,</hi> at the <hi>Sun</hi> &amp; <hi>Fountain</hi> in St. <hi>Paul's</hi> Church-yard. <hi>1653.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
